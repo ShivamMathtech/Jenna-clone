@@ -99,3 +99,14 @@ header .nav-link:hover {
   background-image: url("/img/im5.jfif");
   background-size: cover;
 }
+.work-page {
+  height: 100vh;
+  background: linear-gradient(to right, #072d4e, #052a4a, #051a2f);
+}
+.project-content-box {
+  width: 400px;
+  margin: 9px;
+}
+.card {
+  height: 400px;
+}
