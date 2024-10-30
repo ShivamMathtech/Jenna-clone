@@ -109,4 +109,78 @@ header .nav-link:hover {
 }
 .card {
   height: 400px;
+  background: linear-gradient(to right bottom, #072d4e, #105896);
+  color: #fff;
+}
+.services {
+  height: 100vh;
+  background: linear-gradient(to right, #07223a, #051e36, #040d17);
+}
+.service-box {
+  height: 400px;
+  border-radius: 10px;
+}
+.s-1 {
+  background-image: url("/img/p4.jpg");
+  background-size: cover;
+}
+.s-2 {
+  background-image: url("/img/p5.jpg");
+  background-size: cover;
+}
+.s-3 {
+  background-image: url("/img/p6.jpg");
+  background-size: cover;
+}
+.s-4 {
+  background-image: url("/img/p7.jpg");
+  background-size: cover;
+}
+.Exprience {
+  background: linear-gradient(to right, #062d4e, #051a2f);
+}
+.exp-1 {
+  height: 160px;
+  background: linear-gradient(to right, #072d4e, #051a2f);
+  border-radius: 10px;
+  box-shadow: #052849 0px 1px 105px;
+}
+.section-exp {
+  height: 140px;
+  width: 200px;
+  background-color: #0788ff;
+  border-radius: 10px;
+}
+.testimonial {
+  height: 100vh;
+  background: linear-gradient(to right, #06223a, #051e35, #040f19);
+}
+.testi-box {
+  height: 350px;
+  width: 600px;
+  border-radius: 10px;
+  box-shadow: #052849 0px 1px 105px;
+}
+.circle {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-image: url("/img/im3.jfif");
+  background-size: cover;
+  margin: 20px auto;
+}
+.contact {
+  height: 100vh;
+  background: linear-gradient(
+    to right top,
+    #06223a,
+    #051e35,
+    #040f19,
+    #040f19,
+    #040f19
+  );
+}
+.footer {
+  height: 80px;
+  background: linear-gradient(to right bottom, #072d4e, #051a2f);
 }
